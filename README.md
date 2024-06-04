@@ -1,5 +1,6 @@
 # PRODIGY_TrackCode_TaskNumber-02
 Stopwatch Web Application
+
 This is a simple stopwatch web application built using HTML, CSS, and JavaScript. It allows users to measure time intervals, record lap times, and control the stopwatch functionalities.
 
 Features
